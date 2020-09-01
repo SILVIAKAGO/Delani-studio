@@ -1,0 +1,19 @@
+.container{
+    margin-top: 20px;  
+  }
+  
+  .services{
+    width: 95%;
+    margin: 0 auto; 
+  }
+  
+  .service{
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  .service-def{
+    display: none;
+    text-align: center;
+    cursor: pointer;
+  }
