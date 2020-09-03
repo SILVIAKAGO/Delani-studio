@@ -17,3 +17,39 @@
     text-align: center;
     cursor: pointer;
   }
+.first{
+  background-image: url("images/h_img.jpg");
+  height: 650px;
+  color: white;
+  text-align: center;
+  background-size: cover;
+}
+.first-logo{
+  margin-top: 150px;
+}
+#second{
+  text-align: center;
+}
+#third{
+  background-image: url("images/s_image.jpg");
+  text-align: center;
+  color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 10rem;
+  margin-bottom: 40px;
+}
+#h2{
+  text-align: center;
+}
+#contact{
+  background-image: url("images/c_image\ \(1\).jpg");
+  background-size: cover;
+  color: white;
+  background-repeat: no-repeat;
+  height: auto;
+  text-align: center;
+}
+.our, .all, .planning{
+  display: none;
+}
